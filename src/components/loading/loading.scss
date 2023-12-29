@@ -276,4 +276,5 @@
     left: 50%;
     z-index: 9999999;
     contain: layout style size;
+    pointer-event: none;
 }
